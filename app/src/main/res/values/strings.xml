@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleAppMobile</string>
+    <string name="users">Пользователи</string>
+    <string name="home">Главная</string>
+</resources>
